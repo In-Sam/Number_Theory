@@ -58,6 +58,8 @@ int main() {
 		break;
 	}
 
+	printf("\x1b[40m");
+
 	return 0;
 }
 
